@@ -481,14 +481,14 @@ section {
 }
 #about .about-container .background {
   min-height: 1200px;
-  background: url(../img/about-daniel-img.jpg) center top no-repeat; /* this sets the image and properties on the about page */
+  background: url(assets/img/Family Pic (Website).jpg?) center top no-repeat; this sets the image and properties on the about page
   margin-bottom: 0px;
 }
 #about .about-container .content {
   background: #fff;
 }
 #about .about-container .title {
-  color: #333;
+  color: #333;/
   font-weight: 700;
   font-size: 32px;
 }
