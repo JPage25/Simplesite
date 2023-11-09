@@ -481,7 +481,7 @@ section {
 }
 #about .about-container .background {
   min-height: 1200px;
-  background: url(https://github.com/JPage25/Simplesite/blob/main/assets/img/Family%20Pic%20(Website).jpg?) center top no-repeat; this sets the image and properties on the about page
+  background: url(https://github.com/JPage25/Simplesite/blob/main/assets/img/Family%20Pic%20(Website).jpg?raw-true) center top no-repeat; this sets the image and properties on the about page
   margin-bottom: 0px;
 }
 #about .about-container .content {
